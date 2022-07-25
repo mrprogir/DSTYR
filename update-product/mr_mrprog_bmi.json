@@ -1,3 +1,10 @@
 {
-  "test": 15
+   "version":"2.1.0",
+   "download_url":"https:\/\/files.mr-programer.ir\/product\/dastyar-salamat\/dastyar-salamat.zip",
+   "tested":"5.9.1",
+   "requires_php":"5.9.1",
+   "last_updated":"2022-03-04 18:35:17",
+   "sections":{
+      "changelog":"changelog"
+   }
 }
