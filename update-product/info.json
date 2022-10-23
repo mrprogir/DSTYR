@@ -1,0 +1,22 @@
+{
+  "name": "پلاگ5ین آپدیت چکر",
+  "slug": "misha-update-checker",
+  "author": "<a href='https://rudrastyh.com'>Misha Rudrastyh</a>",
+  "author_profile": "http://profiles.wordpress.org/rudrastyh",
+  "version": "3.0",
+  "download_url": "https://rudrastyh.com/wp-content/uploads/updater/misha-update-checker.zip2",
+  "requires": "3.0",
+  "tested": "6.0.2",
+  "requires_php": "5.6",
+  "last_updated": "2022-06-25",
+  "sections": {
+    "description": "2توضیحاااات",
+    "installation": "نصب پلاگین",
+    "changelog": "<h4>6سخه 2.0</h4><ul><li>رفع باگ</li><li>تغییر استایل</li></ul>"
+  },
+  "banners": {
+    "low": "https://test.code:8443/update/banner-772x250.jpg",
+    "high": "https://test.code:8443/update/banner-1544x500.jpg"
+  },
+  "update_message": "<br><br> <span style='' class='dashicons dashicons-no'></span> <span style=''> <strong>لطفا توجه کنید!</strong> برای فلان کار 8ثلا آپدیت کنید و سیو کنید 2</span>"
+}
