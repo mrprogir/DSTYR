@@ -1,10 +1,12 @@
 {
-   "version":"2.1.0",
-   "download_url":"https:\/\/files.mr-programer.ir\/product\/dastyar-salamat\/dastyar-salamat.zip",
+   "version":"3.0.3",
+   "download_url":"http://cdn.mr-programer.ir/plugins-update/dastyar-salamat-v3.0.3.zip",
    "tested":"5.9.1",
-   "requires_php":"5.9.1",
-   "last_updated":"2022-03-04 18:35:17",
-   "sections":{
-      "changelog":"changelog"
-   }
+   "requires_php":"7",
+   "last_updated":"2022-11-04 18:35:17",
+   "sections": {
+         "description": "<h2>معرفی افزونه دستیار سلامت</h2><p>امروزه افراد به تناسب اندام خود بسیار اهمیت داده و همواره به دنبال روشی برای سنجش تناسب اندام و محاسبه وزن ایده آل خود هستند. شما با افزونه دستیار سلامت میتوانید به سادگی یک محاسبه گر تناسب اندام به صفحات وبسایت خود اضافه کنید تا افراد با کمک آن مقدار توده بدنی و تناسب اندام خود را محاسبه کنند.</p>",
+         "installation": "",
+         "changelog": "<h3>نسخه 3.0.3</h3><ul>  <li>تغییر بیس افزونه و بازطراحی با vue.js</li>  <li>افزودن بخش ارسال و مدیریت درخواست مشاوره</li>  <li>بهینه سازی کد های پلاگین (از 4 مگابایت به 400 کیلوبایت )</li>  <li>حل کردن مشکلات گذارش شده</li>   </ul>"
+   },
 }
